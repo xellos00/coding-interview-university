@@ -47,10 +47,10 @@
 ## Table of Contents
 
 - [코딩 인터뷰 대학이란?](#코딩-인터뷰-대학이란)
-- [Why use it?](#why-use-it)
-- [How to use it?](#how-to-use-it)
+- [왜 사용하는가?](#why-use-it)
+- [어떻게 사용하는가?](#how-to-use-it)
 - [구글 분위기 내기](#구글-분위기-내기)
-- [Did I Get the Job](#did-i-get-the-job)
+- [그래서 합격했는가?](#did-i-get-the-job)
 - [팔로우 하려면](#팔로우-하려면)
 - [당신은 충분히 똑똑합니다](#당신은-충분히-똑똑합니다)
 - [구글에 대해](#구글에-대해)
